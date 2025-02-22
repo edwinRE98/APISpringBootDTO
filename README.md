@@ -1,4 +1,4 @@
-# API REST USERS MANAGEMENT
+# API Rest Spring Boot DTO
 
 This Rest API developed in Spring Boot and applying DTOs, manages a database where user information is found that we can view, modify, create and delete through queries, whose execution can be tested through the HTTP query software, the consumption of services of this API is done with the built-in Spring server.
 
