@@ -68,3 +68,12 @@ For the database, this API only has a dependency for MySQL, therefore it is reco
 - Java version "21.0.2" 2024-01-16 LTS
 - Spring Boot 3.4.2
 - Maven technology
+
+  ### Dependecias Utilizadas
+
+- Spring Web
+- Spring Data JPA
+- MySQL Driver
+- Spring Boot DevTools
+- Lombok
+- ModelMapper
